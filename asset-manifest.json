@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a1398c1.css",
-    "main.js": "/static/js/main.7e27bd11.js",
+    "main.css": "/static/css/main.b260cdd8.css",
+    "main.js": "/static/js/main.71648224.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Pretendard-Regular.ttf": "/static/media/Pretendard-Regular.d54d6dded9155322b3a3.ttf",
     "static/media/SB 어그로 B.ttf": "/static/media/SB 어그로 B.2bd2f65ded5ef6e562d3.ttf",
     "static/media/portfolio.png": "/static/media/portfolio.212e97e3ba7ab25b33be.png",
     "static/media/CasinoJ.png": "/static/media/CasinoJ.eae713933b2d3cb2b8a7.png",
@@ -20,19 +21,19 @@
     "static/media/HTMLImage.png": "/static/media/HTMLImage.44e4cf0e33a02d6e949a.png",
     "static/media/GitHubImage.png": "/static/media/GitHubImage.363727f2acf3ef1e0641.png",
     "static/media/notion.jpg": "/static/media/notion.7aa264a898951e791ee3.jpg",
-    "static/media/school.svg": "/static/media/school.aa800ac3f0727de282bcde65de4abc57.svg",
     "index.html": "/index.html",
+    "static/media/school.svg": "/static/media/school.aa800ac3f0727de282bcde65de4abc57.svg",
     "static/media/call.svg": "/static/media/call.92e390f92427328323834e1b8ab89138.svg",
     "static/media/email.svg": "/static/media/email.7828ea972566d7acd02102084ef56f46.svg",
     "static/media/calendar.svg": "/static/media/calendar.d2d27159443115dc23483cc25fa6c672.svg",
     "static/media/locate.svg": "/static/media/locate.94c6a40d70da7b868b3ef5f3020a41d5.svg",
     "static/media/person.svg": "/static/media/person.1ed022a6dfb6fb8cfe31d147d21a1044.svg",
-    "main.3a1398c1.css.map": "/static/css/main.3a1398c1.css.map",
-    "main.7e27bd11.js.map": "/static/js/main.7e27bd11.js.map",
+    "main.b260cdd8.css.map": "/static/css/main.b260cdd8.css.map",
+    "main.71648224.js.map": "/static/js/main.71648224.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a1398c1.css",
-    "static/js/main.7e27bd11.js"
+    "static/css/main.b260cdd8.css",
+    "static/js/main.71648224.js"
   ]
 }
